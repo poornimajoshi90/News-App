@@ -1,0 +1,5 @@
+.mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-Content: center;
+}
